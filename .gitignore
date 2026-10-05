@@ -1,0 +1,15 @@
+target/
+*.class
+
+# Eclipse
+.settings/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
+.env.*
